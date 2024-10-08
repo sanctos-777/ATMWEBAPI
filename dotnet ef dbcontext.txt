@@ -1,0 +1,10 @@
+dotnet ef dbcontext scaffold "Server=localhost;Database=BDEmpresaTarde;User Id=adminTarde;Password=admin;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o ORM
+
+
+dotnet ef dbcontext scaffold "Server=LAB205_17\SQLEXPRESS;Database=BDEmpresaTarde;User Id=adminTarde;Password=admin;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o ORM1 --force
+
+dotnet ef dbcontext scaffold "Server=LAB205_17\SQLEXPRESS;Database=BDEmpresa;User Id=adminTarde;Password=admin;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o ORM1 --force
+
+
+dotnet ef dbcontext scaffold "Server=LAB205_17\SQLEXPRESS;Database=BD_ATM;User Id=adminTarde;Password=admin;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer -o ORM --force
+
