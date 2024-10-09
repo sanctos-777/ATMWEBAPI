@@ -1,38 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\atmwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\cursoc#ruan\\atmwebapi\\repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:repositorio\\clienterepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\atmwebapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\cursoc#ruan\\atmwebapi\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\atmwebapi\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\cursoc#ruan\\atmwebapi\\model\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:model\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\cursoc#ruan\\atmwebapi\\repositorio\\vendarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:repositorio\\vendarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\cursoc#ruan\\atmwebapi\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\atmwebapi\\controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:controllers\\vendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\cursoc#ruan\\atmwebapi\\repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:repositorio\\produtorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\atmwebapi\\orm\\tbcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:orm\\tbcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\atmwebapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\atmwebapi\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\atmwebapi\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|c:\\users\\aluno noite\\desktop\\cursoc#ruan\\atmwebapi\\repositorio\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FBE5B44-6FD9-47AE-94EB-5711C5F3025F}|ATMWebAPI.csproj|solutionrelative:repositorio\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,100 +41,98 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TbCliente.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\ORM\\TbCliente.cs",
-              "RelativeDocumentMoniker": "ORM\\TbCliente.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\ORM\\TbCliente.cs",
-              "RelativeToolTip": "ORM\\TbCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:42:54.892Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EnderecoController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\EnderecoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EnderecoController.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\EnderecoController.cs",
-              "RelativeToolTip": "Controllers\\EnderecoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:36:05.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:36:05.187Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:31:35.348Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "Repositorio\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "Repositorio\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Model\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "Model\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Model\\ClienteDto.cs",
+              "RelativeToolTip": "Model\\ClienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:30:47.064Z"
+              "WhenOpened": "2024-10-09T20:35:48.299Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProdutoController.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "Controllers\\ProdutoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Model\\Cliente.cs",
+              "RelativeToolTip": "Model\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:08:03.138Z"
+              "WhenOpened": "2024-10-09T20:35:43.284Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VendaController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\VendaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\VendaController.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Controllers\\VendaController.cs",
-              "RelativeToolTip": "Controllers\\VendaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Title": "VendaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\VendaRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\VendaRepositorio.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\VendaRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\VendaRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T20:07:48.281Z"
+              "WhenOpened": "2024-10-09T19:56:24.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:56:22.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\ProdutoRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\ProdutoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:56:17.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\EnderecoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\EnderecoRepositorio.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\EnderecoRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\EnderecoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:56:15.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAABMAAAAAAAAAA==",
+              "Title": "ClienteRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ClienteRepositorio.cs",
+              "ToolTip": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\Repositorio\\ClienteRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\ClienteRepositorio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T17:32:58.53Z",
+              "WhenOpened": "2024-10-09T19:46:32.8Z",
               "EditorCaption": ""
             }
           ]

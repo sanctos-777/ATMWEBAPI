@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\ATMWebAPI.csproj": {}
+    "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\ATMWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\ATMWebAPI.csproj": {
+    "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\ATMWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\ATMWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\ATMWebAPI.csproj",
         "projectName": "ATMWebAPI",
-        "projectPath": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\ATMWebAPI.csproj",
+        "projectPath": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\ATMWebAPI.csproj",
         "packagesPath": "C:\\Users\\Aluno Noite\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno Noite\\Desktop\\ATMWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Aluno Noite\\Desktop\\CursoC#Ruan\\ATMWEBAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno Noite\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,7 +102,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
